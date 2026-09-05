@@ -45,7 +45,8 @@
             ***
             ****
             *****
-![ejecucion del ejercicio](ciclos_Ejercicios_7.png)
+![ejecucion del ejercicio](ciclos_Ejercicios_7.png)<img width="1152" height="830" alt="ciclos_Ejercicos_5" src="https://github.com/user-attachments/assets/59e69639-c2b0-4b06-ae9c-e1da35980323" />
+
 
 ## Conclusiones
 Estuvo complicado, me tuve que ayudar con la inteligencia artificial, al final pude hacer ejercicios pero se me complico mucho.
