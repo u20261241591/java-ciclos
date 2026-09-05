@@ -32,7 +32,7 @@
 
 ### Ejercicio 5
 >Mostrar por pantalla todos los números primos que hay entre 1 y 200
-![ejecucion del ejercicio](evidencias/ciclos_Ejercicios_5.png)
+![ejecucion del ejercicio](evidencias/ciclos_Ejercicicos_5.png)
 
 ### Ejercicio 6
 >3.c.1. Pedir por teclado un número y calcular su factorial. Si el número introducido es negativo se seguirá 
