@@ -15,7 +15,7 @@
  - captura de pantalla de los ejercicios:
 ### Ejercicio 1
 >3.a.2. Programa que muestre los números del 1 al 100, pero sin mostrar los múltiplos de 7.
-![ejecucion del ejercicio](ciclos_Ejercicios_1.png) (ciclos_Ejercicios1.png)
+![ejecucion del ejercicio](evidencias/ciclos_Ejercicios_1.png) (ciclos_Ejercicios1.png)
 
 ### Ejercicio 2
 >3.a.16.Programa que pide por teclado números, de manera continua, hasta que se introducen dos números iguales
